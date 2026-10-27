@@ -92,8 +92,6 @@ The target represents the historical approval outcome. Its actual values and cla
 
 The project follows a structured machine learning pipeline.
 
-## 🔄 Project Workflow
-
 1. **Dataset Loading and Understanding**
 2. **Exploratory Data Analysis (EDA)**
 3. **Data Cleaning and Preprocessing**
